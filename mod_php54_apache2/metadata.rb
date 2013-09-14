@@ -6,3 +6,4 @@ version          "0.1"
 supports "ubuntu"
 
 depends "apache2"
+depends "deploy"
